@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Git::Tableflip::VERSION
   spec.authors       = ["Thomas Brewer"]
   spec.email         = ["tom@leftplusright.com"]
-  spec.description   = %q{Tableflip}
-  spec.summary       = %q{Tableflip}
+  spec.description   = %q{Sometimes you just get frustrated with Git and you need to blow off a little steam. $ git tableflip}
+  spec.summary       = %q{Blow off a little steam with $ git tableflip}
   spec.homepage      = ""
   spec.license       = "MIT"
 
