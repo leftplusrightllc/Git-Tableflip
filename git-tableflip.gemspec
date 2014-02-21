@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tom@leftplusright.com"]
   spec.description   = %q{Sometimes you just get frustrated with Git and you need to blow off a little steam. $ git tableflip}
   spec.summary       = %q{Blow off a little steam with $ git tableflip}
-  spec.homepage      = ""
+  spec.homepage      = "http://leftplusright.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
